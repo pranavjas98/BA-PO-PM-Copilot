@@ -1,0 +1,8 @@
+*.db
+*.xlsx
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+venv/
+.venv/
